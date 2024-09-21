@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joseph Lauria!
 
-### US Military Veteran | Full Stack Engineer | Fitness Enthusiast | Anime & Boxing Fan
+### Full Stack Engineer | US Military Veteran | Fitness Enthusiast | Anime & Boxing Fan
 
 ---
 
