@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joseph Lauria!
 
-### Full Stack Engineer | US Military Veteran 
+### Full Stack Software Engineer | US Military Veteran 
 
 ---
 
