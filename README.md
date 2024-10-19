@@ -35,7 +35,3 @@ When I'm not coding, you can find me lifting weights at the gym or diving into t
 - [Personal Website](https://josephl17.github.io/)
 
 Feel free to reach out if you want to collaborate or just chat about coding, fitness, or anime!
-
----
-
-Thanks for visiting my profile! 🚀
