@@ -6,7 +6,7 @@
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-I’m a military veteran who has transitioned into the world of technology as a Full Stack Engineer. With a passion for coding and a love for problem-solving, I specialize in creating efficient and scalable applications.
+I’m a military veteran who has transitioned into the world of technology as a Full Stack Engineer. With a passion for coding and a love for problem-solving.
 
 ---
 
