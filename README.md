@@ -28,4 +28,3 @@ I’m a US military veteran turned software engineer, driven by the same discipl
 ### 🌐 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/joseph-lauria/)  
-- [Personal Website](https://josephl17.github.io/)  
